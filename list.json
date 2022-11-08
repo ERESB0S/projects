@@ -2,7 +2,7 @@
     {
         "image": "https://i.ibb.co/fXnC7Qs/eres.png",
         "logo": "https://i.ibb.co/fXnC7Qs/eres.png",
-        "title": "Eres",
+        "title": "Eres ✨",
         "text": "I use all my circuits to give you the highest quality music enjoyment. You always say you deserve the best.",
         "link": "https://discord.gg/ZS2TKFFadZ"
     },
@@ -12,5 +12,19 @@
         "title": "Viego Bot List",
         "text": "It is a small bot list project that we started with only a few people but did not continue to live.",
         "link": "https://discord.gg/nsdeB9wqXM"
+    },
+    {
+        "image": "https://cdn.discordapp.com/avatars/938242086061363241/7d254974c35323cda92e3cce0a9ffefc.png?size=2048",
+        "logo": "https://cdn.discordapp.com/avatars/938242086061363241/7d254974c35323cda92e3cce0a9ffefc.png?size=2048",
+        "title": "Sea Music",
+        "text": "Another small music bot.",
+        "link": "https://discord.gg/AEVmSHSAMg"
+    },
+    {
+        "image": "https://cdn.discordapp.com/avatars/1003104072049623090/f11529d101ee149d1de258960d80403e.png?size=2048",
+        "logo": "https://cdn.discordapp.com/avatars/1003104072049623090/f11529d101ee149d1de258960d80403e.png?size=2048",
+        "title": "Lixe",
+        "text": "One of the newest among our music bots that we have developed abundantly! Definitely worth a try.",
+        "link": "https://discord.gg/ZS2TKFFadZ"
     }
 ]
